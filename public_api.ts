@@ -1,0 +1,1 @@
+export * from './src/app/modules/photo-input/photo-input.module'
