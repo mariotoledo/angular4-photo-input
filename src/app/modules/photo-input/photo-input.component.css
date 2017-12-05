@@ -1,0 +1,23 @@
+.photo-input-container {
+	width: 100%;
+	text-align: center;
+}
+
+.photo-input-container .photo-input-background {
+	width: 96px;
+	height: 96px;
+	border-radius: 96px;
+	background-color: #F1F1F1;
+	margin: 0px auto 8px auto;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.photo-input-container .photo-input-background .photo-icon {
+	padding: 36px;
+}
+
+.photo-input-container #photo-input-file {
+	display: none;
+}
